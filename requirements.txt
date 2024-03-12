@@ -1,0 +1,7 @@
+pip~=23.2.1
+wheel~=0.41.2
+pillow~=10.2.0
+setuptools~=68.2.0
+matplotlib~=3.8.2
+numpy~=1.26.2
+pydicom~=2.4.4
